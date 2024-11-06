@@ -65,7 +65,8 @@ Sad ==> 1
 Happy ==> 0
 ![image](https://github.com/user-attachments/assets/ec3d68e6-f260-4a35-b256-4075e16db1c8)
 The Learning Curve
-![image](https://github.com/user-attachments/assets/f59028c9-efdc-4d71-a763-fcd0f00dcf88)
+![image](https://github.com/user-attachments/assets/22a9b5a9-c0a4-4ed7-b86a-8d16ea2cbb83)
+
 
 ## Model Saving
 The trained model is saved as `happysadmodel.h5` and can be loaded for future predictions.
