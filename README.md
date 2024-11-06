@@ -62,9 +62,13 @@ else:
 
 ## Visualization
 Sad ==> 1
+
 Happy ==> 0
+
 ![image](https://github.com/user-attachments/assets/ec3d68e6-f260-4a35-b256-4075e16db1c8)
+
 The Learning Curve
+
 ![image](https://github.com/user-attachments/assets/59444e41-51ff-4277-9edb-e9f942c91647)
 
 
